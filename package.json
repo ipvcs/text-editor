@@ -3,9 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "@tinymce/tinymce-react": "^3.12.6",
+    "crpyto-js": "^0.0.1-security",
+    "crypto-js": "^4.0.0",
+    "ipfs-core": "^0.8.0",
+    "it-all": "^1.0.5",
+    "js-chacha20": "^1.1.0",
+    "query-string": "^7.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -17,6 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "./",
   "eslintConfig": {
     "extends": [
       "react-app",
